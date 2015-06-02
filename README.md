@@ -1,2 +1,2 @@
-github repo Contribuitors
-Leonardo Jimenez
+Github repo Contribuitors
+* Leonardo Jimenez
