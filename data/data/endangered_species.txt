@@ -1,0 +1,353 @@
+Common name	Scientific name	Home range	status
+Lowland Anoa	Bubalus depressicornis	Indonesia	E
+Pink Fairy Armadillo	Chlamyphorus truncatus	Argentina	E
+Mountain Anoa	Bubalus quarlesi	Indonesia	E
+Giant Sable Antelope	Hippotragus niger variani	Angola	E
+Giant Sable Antelope	Hippotragus niger variani	Angola	E
+Giant Sable Antelope	Hippotragus niger variani	Angola	E
+Argali	Ovis ammon	Eurasia	E
+Giant Armadillo	Priodontes maximus	South America	E
+Pink Fairy Armadillo	Chlamyphorus truncatus	Argentina	E
+African Wild Ass	Equus africanus	Somalia, Sudan, Ethiopia	E
+Pudú	Pudu pudu	Southern South America	E
+Eastern Cougar	Puma concolor couguar	Eastern North America	E
+Aye-aye	Daubentonia madagascariensis	Malagasy Republic (Madagascar)	E
+Babirusa	Babyrousa babyrussa	Indonesia	E
+Gelada	Theropithecus gelada	Ethiopia	T
+Western Barred Bandicoot	Perameles bougainville	Australia	E
+Desert Bandicoot	Perameles eremiana	Australia	E
+Avahi (Woolly lemur)	Avahi sp.	Malagasy Republic (Madagascar)	E
+Lesser Rabbit Bandicoot (Lesser Bilby)	Macrotis leucura	Australia	E
+Pig-footed Bandicoot	Chaeropus ecaudatus	Australia	E
+Mexican long-nosed bat (Saussure's long-nosed bat)	Leptonycteris nivalis	U.S. (NM, TX), Mexico, Central America	E
+Banteng	Bos javanicus	Southeast Asia	E
+Bulmer's fruit bat (flying fox)	Aproteles bulmerae	Papua New Guinea	E
+Bumblebee Bat	Craseonycteris thonglongyai	Thailand	E
+Gray Bat	Myotis grisescens	Central and southeastern U.S.	E
+Hawaiian Hoary Bat	Lasiurus cinereus semotus	U.S. (HI)	E
+Indiana bat	Myotis sodalis	Eastern and Midwestern U.S.	E
+Lesser Long-nosed Bat	Leptonycteris curasoae yerbabuenae	U.S. (AZ, NM), Mexico, Central America	E
+Little Mariana fruit bat	Pteropus tokudae	Western Pacific Ocean, U.S. (Guam)	E
+Mariana Fruit Bat (Mariana flying fox)	Pteropus mariannus	Western Pacific Ocean, U.S. (GU, MP)	T
+Mexican long-nosed bat (Saussure's long-nosed bat)	Leptonycteris nivalis	U.S. (NM, TX), Mexico, Central America	E
+Ozark Big-Eared Bat	Corynorhinus (Plecotus) townsendii ingens	U.S. (MO, OK, AR)	E
+Rodrigues Fruit Bat (Flying Fox)	Pteropus rodricensis	Indian Ocean, Rodrigues Island	E
+Singapore Roundleaf Horseshoe Bat	Hipposideros ridleyi	Malaysia	E
+Virginia big-eared bat	Corynorhinus (Plecotus) townsendii virginianus	U.S. (KS, FL, TX, OK)	E
+American Black Bear	Ursus americanus	North America	T(S/A)
+Baluchistan Bear	Ursus thibetanus gedrosianus	Iran, Pakistan	E
+Brown Bear	Ursus arctos arctos	Palearctic	E
+Blue Bear	Ursus arctos pruinosus	China (Tibet)	E
+Grizzly bear	Ursus arctos horribilis	Holarctic	T
+Louisiana Black Bear	Ursus americanus luteolus	U.S. (LA-all parishes; MS-all counties south of or touching a line from Greenville, Washington County, to Meridian, Lauderdale County; TX-all counties east of or touching a line from Linden, Cass County, SW to Bryan, Brazos County, thence SSW to Rockport, Aransas County)	T
+Mexican Grizzly Bear	Ursus arctos	Holarctic	E
+Beaver	Castor fiber birulai	Mongolia	E
+Wood Bison	Bison bison athabascae	Canada, northwestern U.S.A	E
+Mexican Bobcat	Lynx rufus escuinapae	Central Mexico	E
+Bontebok	Damaliscus pygarus (dorcas) dorcas	South Africa	E
+Bactrian Camel	Camelus bactrianus	Mongolia, China	E
+Woodland Caribou (Reindeer)	Rangifer tarandus caribou	U.S. (AK, ID, ME, MI, MN, MT, NH, VT, WA, WI), Canada	E
+Rodrigues Fruit Bat (Flying Fox)	Pteropus rodricensis	Indian Ocean, Rodrigues Island	E
+Singapore Roundleaf Horseshoe Bat	Hipposideros ridleyi	Malaysia	E
+Virginia big-eared bat	Corynorhinus (Plecotus) townsendii virginianus	U.S. (KS, FL, TX, OK)	E
+American Black Bear	Ursus americanus	North America	T(S/A)
+Iriomote Cat	Prionailurus iriomotensis	Japan (Iriomote Island, Ryukyu Islands)	E
+Leopard Cat	Prionailurus bengalensis	India, Southeast Asia	E
+Marbled Cat	Pardofelis marmorata	Nepal, Southeast Asia, Indonesia	E
+Pakistan Sand Cat	Felis margarita scheffeli	Pakistan	E
+Oncilla	Leopardus tigrinus	Costa Rica to northern Argentina	E
+Apennine Chamois	Rupicapra rupicapra ornata	Italy	E
+Cheetah	Acinonyx jubatus	Africa to India	E
+Common Chimpanzee	Pan troglodytes	Africa	E
+Bonobo	Pan paniscus	Zaire	E
+Chinchilla	Chinchilla brevicaudata boliviana	Bolivia	E
+Malabar Large-spotted Civet	Viverra civettina (megaspila c.)	India	E
+Cochito (Vaquita)	Phocoena sinus	Mexico (Gulf of California)	E
+Bactrian Deer	Cervus elaphus bactrianus	Tajikistan, Uzbekistan, Afghanistan	E
+Barbary Deer	Cervus elaphus barbarus	Morocco, Tunisia, Algeria	E
+Calamianes Deer (Philippine)	Axis porcinus calamianensis	Philippines (Calamian Islands)	E
+Cedros Island Mule Deer	Odocoileus hemionus cerrosensis	Mexico (Cedros Island)	E
+Columbian white-tailed deer	Odocoileus virginianus leucurus	U.S. (WA, OR)	E
+Corsican red deer	Cervus elaphus corsicanus	Corsica, Sardinia	E
+Eld's Brow-antlered Deer	Cervus eldi	India to Southeast Asia	E
+Formosan Sika Deer	Cervus nippon taioanus	Taiwan	E
+Indochina Hog Deer	Axis porcinus annamiticus	Thailand, Indochina	E
+Key deer	Odocoileus virginianus clavium	U.S. (Florida)	E
+Kuhl's deer (Bawean deer)	Axis porcinus kuhli	Indonesia	E
+Marsh deer	Blastocerus dichotomus	Argentina, Uruguay, Paraguay, Bolivia, Brazil	E
+McNeill's deer	Cervus elaphus macneilli	China (Sinkiang, Tibet)	E
+Musk deer	Moschus spp. (all species)	Central and eastern Asia	E
+North China Sika Deer	Cervus nippon mandarinus	China (Shantung and Chihli Provinces)	E
+Pampas deer	Ozotoceros bezoarticus	Brazil, Argentina, Uruguay, Bolivia, Paraguay	E
+Persian fallow deer	Dama mesopotamica (dama m.)	Iraq, Iran	E
+Ryukyu sika deer	Cervus nippon keramae	Japan (Ryukyu Islands)	E
+Shansi sika deer	Cervus nippon grassianus	China (Shansi Province)	E
+South China Sika Deer	Cervus nippon kopschi	Southern China	E
+Swamp deer	Cervus duvauceli	India, Nepal	E
+Visayan deer	Cervus alfredi	Philippines	E
+Yarkand deer	Cervus elaphus yarkandensis	China (Sinkiang)	E
+Dhole	Cuon alpinus	C.I.S., Korea, China, India, Southeast Asia	E
+Dibbler	Antechinus apicalis	Australia	E
+African wild dog	Lycaon pictus	Sub-Saharan Africa	E
+Chinese River dolphin	Lipotes vexillifer	China	E
+Indus River dolphin	Platanista minor	Pakistan (Indus River and tributaries)	E
+Drill	Mandrillus leucophaeus	Equatorial West Africa	E
+Dugong	Dugong dugon	East Africa to southern Japan, including U.S. (Trust Territories)	E
+Jentink's duiker	Cephalophus jentinki	Sierra Leone, Liberia, Côte d'Ivoire	E
+Western giant eland	Taurotragus derbianus derbianus	Senegal to Côte d'Ivoire	E
+African elephant	Loxodonta africana	Africa	T
+Asian elephant	Elephas maximus	South-central and southeastern Asia	E
+Black-footed ferret	Mustela nigripes	Western U.S., western Canada, Rose Hill	E
+Northern swift fox	Vulpes velox hebes	U.S. (northern plains), Canada	E
+San Joaquin Kit Fox	Vulpes macrotis mutica	U.S. (CA)	E
+San Miguel Island fox	Urocyon littoralis littoralis	U.S. (CA)	E
+Santa Catalina Island fox	Urocyon littoralis catalinae	U.S. (CA)	E
+Marbled Cat	Pardofelis marmorata	Nepal, Southeast Asia, Indonesia	E
+Santa Rosa Island fox	Urocyon littoralis santarosae	U.S. (CA)	E
+Simien fox	Canis simensis	Ethiopia	E
+Arabian gazelle	Gazella gazella	Arabian Peninsula, Palestine, Sinai	E
+Clarke's gazelle	Ammodorcas clarkei	Somalia, Ethiopia	E
+Mhorr gazelle	Gazella dama mhorr	Morocco	E
+Moroccan gazelle	Gazella dorcas massaesyla	Morocco, Algeria, Tunisia	E
+Mountain gazelle (Cuvier's)	Gazella cuvieri	Morocco, Algeria, Tunisia	E
+Pelzeln's gazelle	Gazella dorcas pelzelni	Somalia	E
+Rio de Oro Dama gazelle	Gazella dama lozanoi	Western Sahara	E
+Sand Gazelle	Gazella subgutturosa marica	Jordan, Arabian Peninsula	E
+Saudi Arabian gazelle	Gazella dorcas saudiya	Israel, Iraq, Jordan, Syria, Arabian Peninsula	E
+Slender-horned gazelle	Gazella leptoceros	Sudan, Egypt, Algeria, Libya	E
+Gibbons	Hylobates, Nomascus, Hoolock, Symphalanges	China, India, Southeast Asia	E
+Gray Goral	Naemorhedus goral	East Asia	E
+Gorillas	Gorilla spp.	Central and western Africa	E
+Hispid hare	Caprolagus hispidus	India, Nepal, Bhutan	E
+Swayne's Hartebeest	Alcelaphus buselaphus swaynei	Ethiopia, Somalia	E
+Tora Hartebeest	Alcelaphus buselaphus tora	Ethiopia, Sudan, Egypt	E
+Pygmy hog	Sus salvanius	India, Nepal, Bhutan, Sikkim	E
+Przewalski's horse	Equus przewalskii	Mongolia, China	E
+North Andean huemul	Hippocamelus antisensis	Ecuador, Peru, Chile, Bolivia, Argentina	E
+South Andean Huemul	Hippocamelus bisulcus	Chile, Argentina	E
+Cabrera's hutia	Capromys angelcabrerai	Cuba	E
+Dwarf Hutia	Capromys nana	Cuba	E
+Large-eared Hutia	Capromys auritus	Cuba	E
+Little Earth Hutia	Capromys sanfelipensis	Cuba	E
+Barbary hyena	Hyaena hyaena barbara	Morocco, Algeria, Tunisia	E
+Brown hyena	Parahyaena (Hyaena) brunnea	Southern Africa	E
+Pyrenean ibex	Capra pyrenaica pyrenaica	Spain	E
+Walia Ibex	Capra walie	Ethiopia	E
+Black-faced impala	Aepyceros melampus petersi	Namibia, Angola	E
+Indri	Indri indri	Malagasy Republic (Madagascar)	E
+Jaguar	Panthera onca	U.S. (AZ, CA, LA, NM, TX), Mexico, Central and South America	E
+Guatemalan jaguarundi	Puma yagouaroundi fossata	Mexico, Nicaragua	E
+Gulf Coast Jaguarundi	Puma yagouarondi cacomitli	U.S. (TX), Mexico	E
+Panamanian Jaguarundi	Puma yagouaroundi panamensis	Nicaragua, Costa Rica, Panama	E
+Sinaloan Jaguarundi	Puma yagouaroundi tolteca	U.S. (AZ), Mexico	E
+Fresno Kangaroo Rat	Dipodomys nitratoides exilis	U.S. (CA)	E
+Giant kangaroo rat	Dipodomys ingens	U.S. (CA)	E
+Morro Bay kangaroo rat	Dipodomys heermanni morroensis	U.S. (CA)	E
+San Bernardino Merriam's kangaroo rat	Dipodomys merriami parvus	U.S. (CA)	E
+Stephens's Kangaroo Rat	Dipodomys stephensi (incl. D. cascus)	U.S. (CA)	E
+Tipton kangaroo rat	Dipodomys nitratoides nitratoides	U.S. (CA)	E
+Tasmanian forester kangaroo	Macropus giganteus tasmaniensis	Australia (Tasmania)	E
+Koala	Phascolarctos cinereus	Australia	T
+Kouprey	Bos sauveli	Vietnam, Laos, Cambodia, Thailand	E
+Capped Langur	Trachypithecus pileatus	India, Burma, Bangladesh	E
+Red-shanked Douc	Pygathrix nemaeus	Cambodia, Laos, Vietnam	E
+Francois' Langur	Trachypithecus francoisi	China (Kwangsi), Indochina	E
+Gee's Golden Langur	Trachypithecus geei	India (Assam), Bhutan	E
+Gray langurs	Semnopithecus spp.	China (Tibet), India, Pakistan, Kashmir, Sri Lanka, Sikkim, Bangladesh	E
+Mentawai Langur	Presbytis potenziani	Indonesia	T
+Pig-tailed Langur	Simias concolor	Indonesia	E
+Purple-faced Langur	Trachypithecus vetulus	Sri Lanka	T
+Red lechwe	Kobus leche	Southern Africa	T
+Lemurs	all genera in the Lemuriformes)	Malagasy Republic (Madagascar)	E
+Leopard	Panthera pardus	Africa, Asia	E
+Leopard	Panthera pardus	Africa, Asia	T
+Clouded Leopard	Neofelis nebulosa	Southeastern and south-central Asia, Taiwan	E
+Snow Leopard	Uncia uncia	Central Asia	E
+Spotted linsang	Prionodon pardicolor	Nepal, Assam, Vietnam, Cambodia, Laos, Burma	E
+Asiatic lion	Panthera leo persica	Turkey to India	E
+Pygmy Slow Loris	Nycticebus pygmaeus	Indochina	T
+Canada lynx	Lynx canadensis	U.S. (AK, CO, ID, ME, MI, MN, MT, NH, NY, OR, UT, VT, WA, WI, WY), Canada	T
+Spanish lynx	Felis pardina	Spain, Portugal	E
+Formosan Rock Macaque	Macaca cyclopis	Taiwan	T
+Japanese Macaque	Macaca fuscata	Japan (Shikoku, Kyushu and Honshū Islands)	T
+Kakapo	Strigops habroptila f	New Zealand	E
+Stump-tailed Macaque	Macaca arctoides	India (Assam) to southern China	T
+Toque Macaque	Macaca sinica	Sri Lanka	T
+Amazonian Manatee	Trichechus inunguis	South America (Amazon R. basin)	E
+West African manatee	Trichechus senegalensis	West Coast of Africa from Senegal River to Cuanza River	T
+West Indian manatee	Trichechus manatus	U.S. (southeastern), Caribbean Sea, South America	E
+Mandrill	Mandrillus sphinx	Equatorial West Africa	E
+Tana River Mangabey	Cercocebus galeritus	Kenya	E
+Collared Mangabey	Cercocebus torquatus	Senegal to Ghana; Nigeria to Gabon	E
+Margay	Leopardus (Felis) wiedii	U.S. (TX), Central and South America	E
+Chiltan Markhor (wild goat)	Capra falconeri (aegragrus) chiltanensis	Chiltan Range of west-central Pakistan	E
+Kabul markhor	Capra falconeri megaceros	Afghanistan, Pakistan	E
+Straight-horned Markhor	Capra falconeri jerdoni	Afghanistan, Pakistan	E
+Buffy-headed Marmoset	Callithrix (Callithrix) flaviceps	Brazil	E
+Cottontop Tamarin	Saguinus oedipus	Costa Rica to Colombia	E
+Goeldi's Marmoset	Callimico goeldii	Brazil, Colombia, Ecuador, Peru, Bolivia	E
+Buffy-tufted Marmoset	Callithrix (Callithrix) aurita	Brazil	E
+Vancouver Island Marmot	Marmota vancouverensis	Canada (Vancouver Island)	E
+Eastern jerboa marsupial	Antechinomys laniger	Australia	E
+Large desert marsupial-mouse	Sminthopsis psammophila	Australia	E
+Long-tailed marsupial-mouse	Sminthopsis longicaudata	Australia	E
+Formosan yellow-throated marten	Martes flavigula chrysospila	Taiwan	E
+Black Colobus	Colobus satanas	Equatorial Guinea, People's Republic of Congo, Cameroon, Gabon	E
+Guatemalan Black Howler	Alouatta pigra	Mexico, Guatemala, Belize	T
+Diana Monkey	Cercopithecus diana	Coastal West Africa	E
+Gray Snub-nosed Monkey	Rhinopithecus brelichi	China	E
+L'Hoest's Monkey	Cercopithecus lhoesti	Upper eastern Congo River Basin, Cameroon	E
+Mantled Howler	Alouatta palliata	Mexico to South America	E
+Preuss's Red Colobus	Piliocolobus preussi	Cameroon	E
+Proboscis Monkey	Nasalis larvatus	Borneo	E
+Central American Squirrel Monkey	Saimiri oerstedii	Costa Rica, Panama	E
+White-throated Guenon	Cercopithecus erythrogaster	Western Nigeria	E
+Red-eared Guenon	Cercopithecus erythrotis	Nigeria, Cameroon, Fernando Po	E
+Golden Snub-nosed Monkey	Rhinopithecus roxellana	China	E
+Geoffroy's Spider Monkey	Ateles geoffroyi	Costa Rica, Nicaragua	E
+Tana River Red Colobus	Piliocolobus rufomitratus	Kenya	E
+Tonkin Snub-nosed Langur	Rhinopithecus avunculus	Vietnam	E
+Southern Muriqui	Brachyteles arachnoides	Brazil	E
+Yellow-tailed Woolly Monkey	Oreonax flavicauda	Andes of northern Peru	E
+Black Snub-nosed Monkey	Rhinopithecus bieti	China	E
+Zanzibar Red Colobus	Piliocolobus kirkii	Tanzania	E
+Point Arena mountain beaver	Aplodontia rufa nigra	U.S. (CA)	E
+Alabama beach mouse	Peromyscus polionotus ammobates	U.S. (AL)	E
+Anastasia Island beach mouse	Peromyscus polionotus phasma	U.S. (Florida)	E
+Australian native mouse	Notomys aquilo	Australia	E
+Australian native mouse	Zyzomys pedunculatus	Australia	E
+Choctawhatchee Beach Mouse	Peromyscus polionotus allophrys	U.S. (Florida)	E
+Field's mouse	Pseudomys fieldi	Australia	E
+Gould's mouse	Pseudomys gouldii	Australia	E
+Key Largo cotton mouse	Peromyscus gossypinus allapaticola	U.S. (Florida)	E
+New Holland Mouse	Pseudomys novaehollandiae	Australia	E
+Pacific pocket mouse	Perognathus longimembris pacificus	U.S. (CA)	E
+Perdido Key Beach Mouse	Peromyscus polionotus trissyllepsis	U.S. (AL, Florida)	E
+Preble's meadow jumping mouse	Zapus hudsonius preblei	U.S. (CO, WY)	T
+Salt marsh harvest mouse	Reithrodontomys raviventris	U.S. (CA)	E
+Shark Bay Mouse	Pseudomys praeconis	Australia	E
+Shortridge's Mouse	Pseudomys shortridgei	Australia	E
+Smoky Mouse	Pseudomys fumeus	Australia	E
+Southeastern beach mouse	Peromyscus polionotus niveiventris	U.S. (Florida)	T
+St. Andrew beach mouse	Peromyscus polionotus peninsularis	U.S. (Florida)	E
+Western Mouse	Pseudomys occidentalis	Australia	E
+Fea's muntjac	Muntiacus feae	Northern Thailand, Burma	E
+Eastern native-cat	Dasyurus viverrinus	Australia	E
+Numbat	Myrmecobius fasciatus	Australia	E
+Ocelot	Leopardus (Felis) pardalis	U.S. (AZ, TX) to Central and South America	E
+Bornean Orangutan	Pongo pygmaeus	Borneo, Sumatra	E
+Arabian oryx	Oryx leucoryx	Arabian Peninsula	E
+Cameroon Clawless Otter	Aonyx congicus (congica) microdon	Cameroon, Nigeria	E
+Giant otter	Pteronura brasiliensis	South America	E
+Long-tailed otter	Lontra (Lutra) longicaudis (incl. platensis)	South America	E
+Marine otter	Lontra (Lutra) felina	Peru south to Straits of Magellan	E
+Southern river otter	Lontra (Lutra) provocax	Chile, Argentina	E
+Southern sea otter	Enhydra lutris nereis	West Coast, U.S. (CA, OR, WA) south to Mexico (Baja California)	T
+Giant panda	Ailuropoda melanoleuca	China	E
+Temnick's ground pangolin	Manis temminckii	Africa	E
+Florida panther	Puma concolor coryi	U.S. (LA and AR east to SC and Florida)	E
+Little planigale	Planigale ingrami subtilissima	Australia	E
+Southern planigale	Planigale tenuirostris	Australia	E
+Thin-spined porcupine	Chaetomys subspinosus	Brazil	E
+Leadbeater's possum	Gymnobelideus leadbeateri	Australia	E
+Mountain Pygmy Possum	Burramys parvus	Australia	E
+Scaly-tailed Possum	Wyulda squamicaudata	Australia	E
+Mexican Prairie Dog	Cynomys mexicanus	Mexico	E
+Utah prairie dog	Cynomys parvidens	U.S. (UT)	T
+Peninsular pronghorn	Antilocapra americana peninsularis	Mexico (Baja California)	E
+Sonoran pronghorn	Antilocapra americana sonoriensis	U.S. (AZ), Mexico	E
+Pudú	Pudu pudu	Southern South America	E
+Eastern Cougar	Puma concolor couguar	Eastern North America	E
+Cougar (mountain lion)	Puma concolor (all subsp. except coryi)	Canada to South America	T(S/A)
+Costa Rican Cougar	Puma concolor costaricensis	Nicaragua, Panama, Costa Rica	E
+Quokka	Setonix brachyurus	Australia	E
+Lower Keys Marsh Rabbit	Sylvilagus palustris hefneri	U.S. (Florida)	E
+Pygmy rabbit	Brachylagus idahoensis	U.S. (CA, ID, MT, NV, OR, UT, WA, WY)	E
+Riparian Brush Rabbit	Sylvilagus bachmani riparius	U.S. (CA)	E
+Ryukyu Rabbit	Pentalagus furnessi	Japan (Ryukyu Islands)	E
+Volcano rabbit	Romerolagus diazi	Mexico	E
+False Water Rat	Xeromys myoides	Australia	E
+Stick-nest rat	Leporillus conditor	Australia	E
+Brush-tailed rat-kangaroo	Bettongia penicillata	Australia	E
+Desert Rat-kangaroo (plain)	Caloprymnus campestris	Australia	E
+Gaimard's rat-kangaroo	Bettongia gaimardi	Australia	E
+Lesueur's rat-kangaroo	Bettongia lesueur	Australia	E
+Queensland rat-kangaroo	Bettongia tropica	Australia	E
+Black rhinoceros	Diceros bicornis	Sub-Saharan Africa	E
+Great Indian rhinoceros	rhinoceros unicornis	India, Nepal	E
+Javan rhinoceros	rhinoceros sondaicus	Indonesia, Indochina, Burma, Thailand, Sikkim, Bangladesh, Malaysia	E
+Northern white rhinoceros	Ceratotherium simum cottoni	Zaire, Sudan, Uganda, Central African Republic	E
+Sumatran rhinoceros	Dicerorhinus sumatrensis	Bangladesh to Vietnam to Indonesia (Borneo)	E
+Marsh rice rat (Florida subspecies)	Oryzomys palustris natator	U.S. (Florida)	E
+Mongolian saiga (antelope)	Saiga tatarica mongolica	Mongolia	E
+Black Bearded Saki	Chiropotes satanas	Brazil	E
+White-nosed Saki	Chiropotes albinasus	Brazil	E
+Caribbean monk seal	Monachus tropicalis	Caribbean Sea, Gulf of Mexico	E
+Guadalupe fur seal	Arctocephalus townsendi	U.S. (Farallon Islands of CA) south to Mexico (Islas Revillagigedo)	T
+Hawaiian monk seal	Monachus schauinslandi	U.S. (HI)	E
+Mediterranean monk seal	Monachus monachus	Mediterranean, Northwest African Coast and Black Sea	E
+Saimaa Seal	Phoca hispida saimensis	Finland (Lake Saimaa)	E
+Steller sea-lion	Eumetopias jubatus	U.S. (AK, CA, OR, WA), Canada, Russia; North Pacific Ocean	E & T
+Seledang	Bos gaurus	Bangladesh, Southeast Asia, India	E
+serow	Naemorhedus (Capricornis) sumatraensis	East Asia, Sumatra	E
+Barbary serval	Leptailurus (Felis) serval constantina	Algeria	E
+Shapo	Ovis vignei vignei	Kashmir	E
+Bighorn sheep	Ovis canadensis	U.S. (Western conterminous states), Canada (southwestern), Mexico (northern)	E
+Bighorn sheep	Ovis canadensis californiana	U.S. (Western conterminous states), Canada (southwestern), Mexico (northern)	E
+Shou	Cervus elaphus wallichi	Tibet, Bhutan	E
+Buena Vista Lake ornate shrew	Sorex ornatus relictus	U.S. (CA)	E
+Siamang	Symphalangus syndactylus	Malaysia, Indonesia	E
+Sifakas	Propithecus spp.	Malagasy Republic (Madagascar)	E
+Brazilian three-toed sloth	Bradypus torquatus	Brazil	E
+Cuban Solenodon	Solenodon cubanus	Cuba	E
+Haitian solenodon	Solenodon paradoxus	Dominican Republic, Haiti	E
+Carolina northern flying squirrel	Glaucomys sabrinus coloratus	U.S. (NC, TN)	E
+Delmarva Peninsula fox squirrel	Sciurus niger cinereus	U.S. (Delmarva Peninsula to southeastern PA)	E
+Mount Graham Red Squirrel	Tamiasciurus hudsonicus grahamensis	U.S. (AZ)	E
+Northern Idaho ground squirrel	Spermophilus brunneus brunneus	U.S. (ID)	T
+Virginia northern flying squirrel	Glaucomys sabrinus fuscus	U.S. (VA, WV)	E
+Barbary stag	Cervus elaphus barbarus	Tunisia, Algeria	E
+Kashmir stag	Cervus elaphus hanglu	Kashmir	E
+Zanzibar suni	Neotragus moschatus moschatus	Zanzibar (and nearby islands)	E
+Arabian tahr	Hemitragus jayakari	Oman	E
+Tamaraw	Bubalus mindorensis	Philippines	E
+Lion tamarins	Leontopithecus spp.	Brazil	E
+Pied Tamarin	Saguinus bicolor	Brazil	E
+White-footed Tamarin	Saguinus leucopus	Colombia	T
+Asian tapir	tapirus indicus	Burma, Laos, Cambodia, Vietnam, Malaysia, Indonesia, Thailand	E
+Central American tapir	tapirus bairdii	Southern Mexico to Colombia and Ecuador	E
+Mountain Tapir	tapirus pinchaque	Colombia, Ecuador and possibly Peru and Venezuela	E
+South American tapir (Brazilian)	tapirus terrestris	Colombia and Venezuela south to Paraguay and Argentina	E
+Philippine Tarsier	Tarsius syrichta	Philippines	T
+Tiger	Panthera tigris	Temperate and tropical Asia	E
+Tasmanian tiger	Thylacinus cynocephalus	Australia	E
+Uakari (all species)	Cacajao spp.	Peru, Brazil, Ecuador, Colombia, Venezuela	E
+Urial	Ovis musimon ophion	Cyprus	E
+Vicuna	Vicugna vicugna	South America (Andes)	E
+Amargosa vole	Microtus californicus scirpensis	U.S. (CA)	E
+Florida salt marsh vole	Microtus pennsylvanicus dukecampbelli	U.S. (Florida)	E
+Hualapai Mexican vole	Microtus mexicanus hualpaiensis	U.S. (AZ)	E
+Banded hare wallaby	Lagostrophus fasciatus	Australia	E
+Brindled nail-tailed wallaby	Onychogalea fraenata	Australia	E
+Crescent nail-tailed wallaby	Onychogalea lunata	Australia	E
+Parma wallaby	Macropus parma	Australia	E
+Western hare wallaby	Lagorchestes hirsutus	Australia	E
+Yellow-footed Rock-wallaby	Petrogale xanthopus	Australia	E
+Blue Whale	Balaenoptera musculus	Oceanic	E
+Bowhead Whale	Balaena mysticetus	Oceanic (north latitudes only)	E
+Fin Whale	Balaenoptera physalus	Oceanic	E
+Gray Whale	Eschrichtius robustus	North Pacific Ocean—coastal and Bering Sea, formerly North Atlantic Ocean	E
+Humpback Whale	Megaptera novaeangliae	Oceanic	E
+Right whales	Eualaena spp.	Oceanic	E
+Sei Whale	Balaenoptera borealis	Oceanic	E
+Sperm Whale	Physeter macrocephalus	Oceanic	E
+Gray Wolf	Canis lupus	Holarctic	E
+Maned wolf	Chrysocyon brachyurus	Argentina, Bolivia, Brazil, Paraguay, Uruguay	E
+Red wolf	Canis rufus	U.S. (SE U.S., west to central TX)	E
+Queensland hairy-nosed wombat (incl. Barnard's)	Lasiorhinus krefftii (formerly L. barnardi and L. gillespiei)	Australia	E
+Key Largo Woodrat	Neotoma floridana smalli	U.S. (Florida)	E
+Riparian woodrat (San Joaquin Valley)	Neotoma fuscipes riparia	U.S. (CA)	E
+Wild Yak	Bos mutus (grunniens m.)	China (Tibet), India	E
+Grevy's zebra	Equus grevyi	Kenya, Ethiopia, Somalia	T
+Hartmann's mountain zebra	Equus zebra hartmannae	Namibia, Angola	T
+Mountain zebra	Equus zebra zebra	South Africa	E
